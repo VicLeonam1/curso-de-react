@@ -1,0 +1,16 @@
+.DivCard{
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 29px;
+    text-align: left;
+    width: 200px;
+    text-align: center;
+}
+
+div h2{
+    color: red;
+}
+
+div p{
+    color: blue;
+}
